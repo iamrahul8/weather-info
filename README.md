@@ -13,7 +13,7 @@
 
 
 <p align="center">
- 🔭 Project created for <a href="https://www.notion.so/advaith2021/YEAH-YEt-Another-Hackathon-Guide-c2cb5de3ca5444ff8f7b338000d28c81">YEAH hackathon</a>
+ 🔭 Project created for <a href="https://yeah.devfolio.co">YEAH Hackathon 2021</a>
 
 
 </p>
